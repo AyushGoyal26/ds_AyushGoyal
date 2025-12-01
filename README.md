@@ -1,4 +1,3 @@
-# ds_AyushGoyal
 This project analyzes trading data together with the Fear & Greed Index.
 The two CSV files are merged using the date column and basic charts are generated for volume and PnL trends.
 
